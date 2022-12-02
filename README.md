@@ -4,7 +4,7 @@
 
 The motivation behind this project is to gain knowledge on becoming a developer while gaining new skills.
 
-The Prework Study Guide provides a step by step foundation on how to create a webpage using HTML, CSS, JavaScript, and Git to its user known as myself.
+The prework provides a step by step foundation on how to create a webpage using HTML, CSS, JavaScript, and Git to its user known as myself.
  
 This project teaches the basics of HTML, JavaScript, CSS, and Git. HTML contains information about the webpage which is seen by the user while CSS is the aesthetics and visuals of the webpage. Javascript can contain arrays and/or for loops and can be displayed in the chrome devtools console log. Lastly, Git is a version control system that stores code as more gets added. It can also add files inside projects with the "git add -A" command.
 
